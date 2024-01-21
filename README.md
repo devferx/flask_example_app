@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 **4. Run the application:**
 ```bash
-python main.py
+python app.py
 ```
 
 ### Update dependencies
